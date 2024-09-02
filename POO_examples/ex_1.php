@@ -2,7 +2,7 @@
 // FIRST EXAMPLE - POO
 // public - el atributo PUBLIC puede ser manipulaado por cualquier otra clase fuera de su clase principal
 // private - solo funciona dentro de su misma clase
-// protect - solamente recibe dtos de la herencia
+// protect - solamente recibe datos de la herencia
 
 class Cart {
     public $color;
